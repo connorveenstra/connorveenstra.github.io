@@ -5,7 +5,7 @@
 
 I enjoy producing compelling content quickly and of the highest quality across a variety of topics and formats preferably in a real-time setting.
 
-In my most recent position, I produced daily content covering current events in entertainment, political and popular U.S. culture.
+In my most recent position, I produced daily content covering current events in entertainment, political and U.S. pop culture.
 
 
 
