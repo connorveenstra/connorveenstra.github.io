@@ -1,3 +1,17 @@
+## Summary
+
+---
+
+
+My name is Connor Veenstra. I'm a fifth year at Calvin University in Grand Rapids, MI.
+
+I'm currently working to earn my degree in film and media production and journalism.
+
+I love the study of art. Not just film, but all art. Every piece of art is unique; it's made in a specific culture by a specific group of people. It was made in a specific way to emphasize parts of its tone or story. It's incredibly fascinating to dissect.
+
+It’s important to dissect art because it has a profound effect on us. Many people think that it’s not a big deal what we watch or read because it couldn’t possibly affect us that much. Or that the quality of art isn’t important because “all art is subjective.” However, both of these claims are untrue. I guarantee that in the past of every human being on the planet there is at least one show or book or story in any format that shaped the person they are today. And we never would’ve ingested those stories so deeply if they weren’t enjoyable or investing. You can have a message that will change the very course of the world, but if it’s not written well then, your audience aggressively won’t care.
+
+
 ## Portfolio
 
 ---
@@ -16,11 +30,10 @@
 
 
 
-
-
-
-
 ### Published Creative Work
+
+
+---
 
 
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/picket_signs.png" width="100" height="100" align="middle" title="Online Article">   [Picket Signs: A Collection](https://www.amazon.com/Picket-Signs-Collection-Steven-Alexander-ebook/dp/B07BN7Q37X/ref=sr_1_8?qid=1556848274&refinements=p_27%3ASteven+Alexander&s=digital-text&sr=1-8&text=Steven+Alexander)
