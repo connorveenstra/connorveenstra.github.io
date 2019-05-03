@@ -29,6 +29,17 @@ It’s important to dissect art because it has a profound effect on us. Many peo
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [The History of TV Narrative Pt 1: From BBC to 'Breaking Bad'](https://townhall.com/entertainment/connorveenstra/2019/04/03/the-new-tv-series-n2543309)
 
 
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [Southern Baptist Sex Scandal Exposed](https://townhall.com/tipsheet/connorveenstra/2019/02/11/southern-baptist-sex-scandal-exposed-n2541175)
+
+
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [Al Sharpton Accuses 'So Called' Super Bowl Fans of Racism](https://townhall.com/tipsheet/connorveenstra/2019/02/04/al-sharpton-accuses-so-called-fans-before-super-bowl-n2540753)
+
+
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [Ocasio-Cortez Lashes Out At Media Outlets For Sharing Details Of Where She Lives](https://townhall.com/tipsheet/connorveenstra/2019/02/21/ocasiocortez-lashes-at-media-outlets-for-sharing-details-of-where-she-lives-n2542009)
+
+
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [The Democratic Controversies Are A Smokescreen](https://townhall.com/columnists/connorveenstra/2019/02/11/the-democratic-controversies-are-a-smokescreen-n2541147)
+
 
 ### Published Creative Work
 
