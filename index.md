@@ -26,16 +26,16 @@ In my most recent position, I produced daily content covering current events in 
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [The History of TV Narrative Pt 1: From BBC to 'Breaking Bad'](https://townhall.com/entertainment/connorveenstra/2019/04/03/the-new-tv-series-n2543309)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [Southern Baptist Sex Scandal Exposed](https://townhall.com/tipsheet/connorveenstra/2019/02/11/southern-baptist-sex-scandal-exposed-n2541175)
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [Timothy Zahn shares Star Wars history](https://calvinchimes.org/2019/11/15/timothy-zahn-shares-star-wars-history/)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [Al Sharpton Accuses 'So Called' Super Bowl Fans of Racism](https://townhall.com/tipsheet/connorveenstra/2019/02/04/al-sharpton-accuses-so-called-fans-before-super-bowl-n2540753)
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   ["Where We Meet" forces introspection](https://calvinchimes.org/2019/12/06/where-we-meet-forces-introspection/)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [Ocasio-Cortez Lashes Out At Media Outlets For Sharing Details Of Where She Lives](https://townhall.com/tipsheet/connorveenstra/2019/02/21/ocasiocortez-lashes-at-media-outlets-for-sharing-details-of-where-she-lives-n2542009)
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   ["Matter + Spirit" brings Chinese Christianity to life](https://calvinchimes.org/2020/02/14/matter-spirit-brings-chinese-christianity-to-life/)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [The Democratic Controversies Are A Smokescreen](https://townhall.com/columnists/connorveenstra/2019/02/11/the-democratic-controversies-are-a-smokescreen-n2541147)
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   ['Pet Sematary' 2019 Review: Refreshingly Chilling](https://townhall.com/entertainment/connorveenstra/2019/04/09/pet-sematary-review-n2543859)
 
 
 ### Published Creative Work
