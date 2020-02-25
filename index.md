@@ -26,6 +26,9 @@ In my most recent position, I produced daily content covering current events in 
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   [The History of TV Narrative Pt 1: From BBC to 'Breaking Bad'](https://townhall.com/entertainment/connorveenstra/2019/04/03/the-new-tv-series-n2543309)
 
 
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   ['Pet Sematary' 2019 Review: Refreshingly Chilling](https://townhall.com/entertainment/connorveenstra/2019/04/09/pet-sematary-review-n2543859)
+
+
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Chimes Screenshot.png" width="100" height="100" align="middle" title="Online Article">   [Timothy Zahn shares Star Wars history](https://calvinchimes.org/2019/11/15/timothy-zahn-shares-star-wars-history/)
 
 
@@ -33,9 +36,6 @@ In my most recent position, I produced daily content covering current events in 
 
 
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Chimes Screenshot.png" width="100" height="100" align="middle" title="Online Article">   ["Matter + Spirit" brings Chinese Christianity to life](https://calvinchimes.org/2020/02/14/matter-spirit-brings-chinese-christianity-to-life/)
-
-
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="100" height="100" align="middle" title="Online Article">   ['Pet Sematary' 2019 Review: Refreshingly Chilling](https://townhall.com/entertainment/connorveenstra/2019/04/09/pet-sematary-review-n2543859)
 
 
 ### Published Creative Work
