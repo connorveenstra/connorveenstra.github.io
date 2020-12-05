@@ -35,12 +35,11 @@ In my most recent position, I produced daily content as a multimedia reporter co
 #### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Chimes%20Screenshot.png" width="150" height="100" align="middle" title="Online Article" style="margin-right:10px">   ["Where We Meet" forces introspection](https://calvinchimes.org/2019/12/06/where-we-meet-forces-introspection/)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Radio%20Man.jpeg" width="150" height="100" align="middle" title="Online Article" style="margin-right:10px">   ["Mitch Lake Leaves WMPL"](https://www.uppermichiganssource.com/2020/09/04/mitch-lake-leaves-wmpl/)
-
 #### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Chimes%20Screenshot.png" width="150" height="100" align="middle" title="Online Article" style="margin-right:10px">   ["Matter + Spirit" brings Chinese Christianity to life](https://calvinchimes.org/2020/02/14/matter-spirit-brings-chinese-christianity-to-life/)
 
 
-### 
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Radio%20Man.jpeg" width="150" height="100" align="middle" title="Online Article" style="margin-right:10px">   ["Mitch Lake Leaves WMPL"](https://www.uppermichiganssource.com/2020/09/04/mitch-lake-leaves-wmpl/)
+
 
 ### Published Creative Work
 
