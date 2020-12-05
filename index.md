@@ -17,7 +17,7 @@ In my most recent position, I produced daily content as a multimedia reporter co
 ### Select Online Articles
 
 
-#### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Townhall%20Screenshot%201.jpg" width="150" height="100" align="middle" title="Online Article" style="margin-right:10px">   [(Re)visting A Classic: Seven Samurai](https://townhall.com/entertainment/connorveenstra/2019/04/11/revisiting-a-classic-seven-samurai-n2544101)
+#### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Townhall%20Screenshot%201.jpg" width="150" height="100" align="middle" title="Online Article" style="margin-right:30px">   [(Re)visting A Classic: Seven Samurai](https://townhall.com/entertainment/connorveenstra/2019/04/11/revisiting-a-classic-seven-samurai-n2544101)
 
 
 #### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Townhall%20Screenshot%201.jpg" width="150" height="100" align="middle" title="Online Article" style="margin-right:10px">   ['Spider-Man: Into the Spider-Verse': Does Whatever A Comic Can](https://townhall.com/entertainment/connorveenstra/2019/03/05/spiderman-into-the-spiderverse-amazing-spectacular-n2542137)
