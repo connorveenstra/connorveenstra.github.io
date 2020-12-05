@@ -17,27 +17,27 @@ In my most recent position, I produced daily content as a multimedia reporter co
 ### Select Online Articles
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="150" height="100" align="middle" title="Online Article">   [(Re)visting A Classic: Seven Samurai](https://townhall.com/entertainment/connorveenstra/2019/04/11/revisiting-a-classic-seven-samurai-n2544101)
+#### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Townhall%20Screenshot%201.jpg" align="middle" title="Online Article">   [(Re)visting A Classic: Seven Samurai](https://townhall.com/entertainment/connorveenstra/2019/04/11/revisiting-a-classic-seven-samurai-n2544101)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="150" height="100" align="middle" title="Online Article">   ['Spider-Man: Into the Spider-Verse': Does Whatever A Comic Can](https://townhall.com/entertainment/connorveenstra/2019/03/05/spiderman-into-the-spiderverse-amazing-spectacular-n2542137)
+#### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Townhall%20Screenshot%201.jpg" align="middle" title="Online Article">   ['Spider-Man: Into the Spider-Verse': Does Whatever A Comic Can](https://townhall.com/entertainment/connorveenstra/2019/03/05/spiderman-into-the-spiderverse-amazing-spectacular-n2542137)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="150" height="100" align="middle" title="Online Article">   [The History of TV Narrative Pt 1: From BBC to 'Breaking Bad'](https://townhall.com/entertainment/connorveenstra/2019/04/03/the-new-tv-series-n2543309)
+#### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Townhall%20Screenshot%201.jpg" align="middle" title="Online Article">   [The History of TV Narrative Pt 1: From BBC to 'Breaking Bad'](https://townhall.com/entertainment/connorveenstra/2019/04/03/the-new-tv-series-n2543309)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/online_article_thumbnail.png" width="150" height="100" align="middle" title="Online Article">   ['Pet Sematary' 2019 Review: Refreshingly Chilling](https://townhall.com/entertainment/connorveenstra/2019/04/09/pet-sematary-review-n2543859)
+#### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Townhall%20Screenshot%201.jpg" align="middle" title="Online Article">   ['Pet Sematary' 2019 Review: Refreshingly Chilling](https://townhall.com/entertainment/connorveenstra/2019/04/09/pet-sematary-review-n2543859)
 
 
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Chimes Screenshot.png" width="150" height="100" align="middle" title="Online Article">   [Timothy Zahn shares Star Wars history](https://calvinchimes.org/2019/11/15/timothy-zahn-shares-star-wars-history/)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Chimes Screenshot.png" width="150" height="100" align="middle" title="Online Article">   ["Where We Meet" forces introspection](https://calvinchimes.org/2019/12/06/where-we-meet-forces-introspection/)
+#### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Chimes%20Screenshot.png" width="150" height="100" align="middle" title="Online Article">   ["Where We Meet" forces introspection](https://calvinchimes.org/2019/12/06/where-we-meet-forces-introspection/)
 
 
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Radio%20Man.jpeg" width="150" height="100" align="middle" title="Online Article">   ["Mitch Lake Leaves WMPL"](https://www.uppermichiganssource.com/2020/09/04/mitch-lake-leaves-wmpl/)
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Chimes Screenshot.png" width="150" height="100" align="middle" title="Online Article">   ["Matter + Spirit" brings Chinese Christianity to life](https://calvinchimes.org/2020/02/14/matter-spirit-brings-chinese-christianity-to-life/)
+#### <img src="https://raw.githubusercontent.com/connorveenstra/connorveenstra.github.io/master/images/Chimes%20Screenshot.png" width="150" height="100" align="middle" title="Online Article">   ["Matter + Spirit" brings Chinese Christianity to life](https://calvinchimes.org/2020/02/14/matter-spirit-brings-chinese-christianity-to-life/)
 
 
 ### 
