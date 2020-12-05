@@ -32,7 +32,7 @@ In my most recent position, I produced daily content as a multimedia reporter co
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Chimes Screenshot.png" width="150" height="100" align="middle" title="Online Article">   [Timothy Zahn shares Star Wars history](https://calvinchimes.org/2019/11/15/timothy-zahn-shares-star-wars-history/)
 
 
-#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Chimes Screenshot.png" width="100" height="100" align="middle" title="Online Article">   ["Where We Meet" forces introspection](https://calvinchimes.org/2019/12/06/where-we-meet-forces-introspection/)
+#### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Chimes Screenshot.png" width="150" height="100" align="middle" title="Online Article">   ["Where We Meet" forces introspection](https://calvinchimes.org/2019/12/06/where-we-meet-forces-introspection/)
 
 
 #### <img src="https://github.com/connorveenstra/connorveenstra.github.io/raw/master/images/Radio%20Man.jpeg" width="150" height="100" align="middle" title="Online Article">   ["Mitch Lake Leaves WMPL"](https://www.uppermichiganssource.com/2020/09/04/mitch-lake-leaves-wmpl/)
